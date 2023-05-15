@@ -23,7 +23,6 @@
 //   console.log("I am finally, i work in BOTH cases")
 // });
 
-//! fetch
 
 // let users = document.querySelector('.users');
 
@@ -39,6 +38,5 @@
 
 let cart = 'cart';
 
-let pokemons = document.querySelector('.pokemons');
-
+let asdasd = "dsadsadasdasdas";
 let ffff = '123123123'
