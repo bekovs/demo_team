@@ -41,3 +41,4 @@ let cart = 'cart';
 
 let pokemons = document.querySelector('.pokemons');
 
+let ffff = '123123123'
