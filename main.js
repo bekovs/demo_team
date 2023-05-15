@@ -27,17 +27,8 @@
 
 // let users = document.querySelector('.users');
 
-// fetch("https://reqres.in/api/users?page=1").then((data) => {
-//   data.json().then((res) => {
-//     res.data.forEach((item) => {
-//       let user = document.createElement('h2');
-//       user.innerText = item.first_name;
-//       users.append(user);
-//     })
-//   })
-// })
+let cart = "cart";
 
-let cart = 'cart';
+let pokemons = document.querySelector(".pokemons");
 
-let pokemons = document.querySelector('.pokemons');
-
+let asdasd = "dsadsadasdasdas";
